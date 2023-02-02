@@ -1,0 +1,3 @@
+C:/Users/gorba/CLionProjects/idin/cmake-build-debug/CMakeFiles/idin.dir
+C:/Users/gorba/CLionProjects/idin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gorba/CLionProjects/idin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
